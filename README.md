@@ -31,3 +31,7 @@ Instruções para instalar e configurar o projeto localmente.
 - [Pip](https://pip.pypa.io/en/stable/installation/)
 
 
+### Navegar até a pasta do  projeto
+cd C:\Users\jovani.custodio\Documents\Automacoes_python\Casting_endpoints
+$env:PYTHONPATH="."
+python .\requestsCasting\Request.py
