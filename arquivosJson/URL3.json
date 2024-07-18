@@ -1,0 +1,23 @@
+{
+    "PeriodoSelecionado": {
+        "PRD_CODIGO": "58941765-da95-4a4d-83af-cc378a1cdded",
+        "PRD_NOME": "JUL / 2024",
+        "PRD_INICIO": "2024-07-01T00:00:00",
+        "PRD_FIM": "2024-07-31T00:00:00",
+        "selected": null
+    },
+    "PeriodoPassado": {
+        "PRD_CODIGO": "313ec057-22e5-414a-94f9-9df4d9dc377d",
+        "PRD_NOME": "JUN / 2024",
+        "PRD_INICIO": "2024-06-01T00:00:00",
+        "PRD_FIM": "2024-06-30T00:00:00",
+        "selected": null
+    },
+    "PeriodoFuturo": {
+        "PRD_CODIGO": "4d80a0bf-a331-4670-9e37-91321580d83a",
+        "PRD_NOME": "AGO / 2024",
+        "PRD_INICIO": "2024-08-01T00:00:00",
+        "PRD_FIM": "2024-08-31T00:00:00",
+        "selected": null
+    }
+}

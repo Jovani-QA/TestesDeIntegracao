@@ -1,0 +1,1320 @@
+{
+    "dtrh": "2024-07-17T23:10:03.092852-03:00",
+    "vlrMetaAcum": 0.0,
+    "vlrboletomedio": 0.0,
+    "totalItemsAcum": 0.0,
+    "vlrVendasAcum": 0.0,
+    "vlrVendasBrutasAcum": 0.0,
+    "PercentualGap": 0.0,
+    "totalBoletos": 0.0,
+    "mediaItemsPorBoleto": 0.0,
+    "percentualBoleto1": null,
+    "precoMedio": 0.0,
+    "meta": 0.0,
+    "desconto": 0.0,
+    "descontoMedio": 0.0,
+    "DataUltimaVenda": "2024-07-17T00:00:00-03:00",
+    "MetaAteHoje": 0.0,
+    "GapAteHoje": 0.0,
+    "FaturamentoDiarioEsperado": 0.0,
+    "metaQtd": null,
+    "MetaAteHojeQtd": null,
+    "GapAteHojeQtd": null,
+    "PercentualGapQtd": null,
+    "RealizadoQtd": null,
+    "FaturamentoPrevisto": null,
+    "QuantidadeVendedores": 0,
+    "VendasPorVendedor": null,
+    "diasRestantes": 0,
+    "vendedoravendaperiodo": [
+        {
+            "dtmovimento": "2024-07-17T00:00:00",
+            "NumeroBoletos": 64.0,
+            "NumeroBoletos1": 45.0,
+            "qtdeItems": 107.00,
+            "VendasDia": 2115.32,
+            "VendasBrutasDia": 2190.70,
+            "MetaDia": 1871.77,
+            "PercentualGap": 113.01,
+            "BoletoMedio": 33.051875,
+            "ItensPorBoleto": 1.67,
+            "PercentualBoleto1": 70.00,
+            "PrecoMedio": 19.769345794392523364485981308,
+            "MetaDiaQtd": 1.93548,
+            "PercentualGapQtd": 1.00,
+            "RealizadoQtd": 1.00,
+            "CategoriaCustomizada1": 0.0,
+            "CategoriaCustomizada2": 0.0,
+            "CategoriaCustomizada3": 0.0,
+            "CategoriaCustomizada4": 0.0,
+            "CategoriaCustomizada5": 0.0,
+            "CategoriaCustomizada6": 0.0,
+            "CategoriaCustomizada7": 0.0,
+            "CategoriaCustomizada8": 0.0,
+            "CategoriaCustomizada9": 0.0,
+            "CategoriaCustomizada10": 0.0,
+            "CategoriaCustomizada11": 0.0,
+            "CategoriaCustomizada12": 0.0,
+            "CategoriaCustomizada13": 0.0,
+            "CategoriaCustomizada14": 0.0,
+            "ListaIndicadores": [
+                {
+                    "nome": "Maior Boleto",
+                    "valor": 165.99,
+                    "icone": "star",
+                    "formato": 1
+                },
+                {
+                    "nome": "GENERICO / SIMILAR",
+                    "valor": 41.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "NAO MEDICAMENTO",
+                    "valor": 54.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "REFERENCIAS",
+                    "valor": 11.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "VITAMINAS",
+                    "valor": 1.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "Meta atendimentos",
+                    "valor": 57.0,
+                    "icone": "eye",
+                    "formato": 0
+                }
+            ]
+        },
+        {
+            "dtmovimento": "2024-07-16T00:00:00",
+            "NumeroBoletos": 66.0,
+            "NumeroBoletos1": 48.0,
+            "qtdeItems": 114.00,
+            "VendasDia": 2550.69,
+            "VendasBrutasDia": 2633.36,
+            "MetaDia": 1871.77,
+            "PercentualGap": 136.27,
+            "BoletoMedio": 38.646818181818181818181818182,
+            "ItensPorBoleto": 1.73,
+            "PercentualBoleto1": 73.00,
+            "PrecoMedio": 22.374473684210526315789473684,
+            "MetaDiaQtd": 1.93548,
+            "PercentualGapQtd": 0.0,
+            "RealizadoQtd": 0.0,
+            "CategoriaCustomizada1": 0.0,
+            "CategoriaCustomizada2": 0.0,
+            "CategoriaCustomizada3": 0.0,
+            "CategoriaCustomizada4": 0.0,
+            "CategoriaCustomizada5": 0.0,
+            "CategoriaCustomizada6": 0.0,
+            "CategoriaCustomizada7": 0.0,
+            "CategoriaCustomizada8": 0.0,
+            "CategoriaCustomizada9": 0.0,
+            "CategoriaCustomizada10": 0.0,
+            "CategoriaCustomizada11": 0.0,
+            "CategoriaCustomizada12": 0.0,
+            "CategoriaCustomizada13": 0.0,
+            "CategoriaCustomizada14": 0.0,
+            "ListaIndicadores": [
+                {
+                    "nome": "Maior Boleto",
+                    "valor": 314.48,
+                    "icone": "star",
+                    "formato": 1
+                },
+                {
+                    "nome": "GENERICO / SIMILAR",
+                    "valor": 47.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "NAO MEDICAMENTO",
+                    "valor": 35.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "REFERENCIAS",
+                    "valor": 32.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "Meta atendimentos",
+                    "valor": 49.0,
+                    "icone": "eye",
+                    "formato": 0
+                }
+            ]
+        },
+        {
+            "dtmovimento": "2024-07-15T00:00:00",
+            "NumeroBoletos": 64.0,
+            "NumeroBoletos1": 46.0,
+            "qtdeItems": 107.00,
+            "VendasDia": 1925.68,
+            "VendasBrutasDia": 2011.66,
+            "MetaDia": 1871.77,
+            "PercentualGap": 102.88,
+            "BoletoMedio": 30.08875,
+            "ItensPorBoleto": 1.67,
+            "PercentualBoleto1": 72.00,
+            "PrecoMedio": 17.997009345794392523364485981,
+            "MetaDiaQtd": 1.93548,
+            "PercentualGapQtd": 1.00,
+            "RealizadoQtd": 1.00,
+            "CategoriaCustomizada1": 0.0,
+            "CategoriaCustomizada2": 0.0,
+            "CategoriaCustomizada3": 0.0,
+            "CategoriaCustomizada4": 0.0,
+            "CategoriaCustomizada5": 0.0,
+            "CategoriaCustomizada6": 0.0,
+            "CategoriaCustomizada7": 0.0,
+            "CategoriaCustomizada8": 0.0,
+            "CategoriaCustomizada9": 0.0,
+            "CategoriaCustomizada10": 0.0,
+            "CategoriaCustomizada11": 0.0,
+            "CategoriaCustomizada12": 0.0,
+            "CategoriaCustomizada13": 0.0,
+            "CategoriaCustomizada14": 0.0,
+            "ListaIndicadores": [
+                {
+                    "nome": "Maior Boleto",
+                    "valor": 165.96,
+                    "icone": "star",
+                    "formato": 1
+                },
+                {
+                    "nome": "GENERICO / SIMILAR",
+                    "valor": 47.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "NAO MEDICAMENTO",
+                    "valor": 40.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "REFERENCIAS",
+                    "valor": 19.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "VITAMINAS",
+                    "valor": 1.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "Meta atendimentos",
+                    "valor": 63.0,
+                    "icone": "eye",
+                    "formato": 0
+                }
+            ]
+        },
+        {
+            "dtmovimento": "2024-07-14T00:00:00",
+            "NumeroBoletos": 31.0,
+            "NumeroBoletos1": 20.0,
+            "qtdeItems": 87.00,
+            "VendasDia": 969.40,
+            "VendasBrutasDia": 1011.74,
+            "MetaDia": 1871.77,
+            "PercentualGap": 51.79,
+            "BoletoMedio": 31.270967741935483870967741935,
+            "ItensPorBoleto": 2.81,
+            "PercentualBoleto1": 65.00,
+            "PrecoMedio": 11.142528735632183908045977011,
+            "MetaDiaQtd": 1.93548,
+            "PercentualGapQtd": 0.0,
+            "RealizadoQtd": 0.0,
+            "CategoriaCustomizada1": 0.0,
+            "CategoriaCustomizada2": 0.0,
+            "CategoriaCustomizada3": 0.0,
+            "CategoriaCustomizada4": 0.0,
+            "CategoriaCustomizada5": 0.0,
+            "CategoriaCustomizada6": 0.0,
+            "CategoriaCustomizada7": 0.0,
+            "CategoriaCustomizada8": 0.0,
+            "CategoriaCustomizada9": 0.0,
+            "CategoriaCustomizada10": 0.0,
+            "CategoriaCustomizada11": 0.0,
+            "CategoriaCustomizada12": 0.0,
+            "CategoriaCustomizada13": 0.0,
+            "CategoriaCustomizada14": 0.0,
+            "ListaIndicadores": [
+                {
+                    "nome": "Maior Boleto",
+                    "valor": 75.99,
+                    "icone": "star",
+                    "formato": 1
+                },
+                {
+                    "nome": "GENERICO / SIMILAR",
+                    "valor": 18.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "NAO MEDICAMENTO",
+                    "valor": 53.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "REFERENCIAS",
+                    "valor": 16.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "Meta atendimentos",
+                    "valor": 60.0,
+                    "icone": "eye",
+                    "formato": 0
+                }
+            ]
+        },
+        {
+            "dtmovimento": "2024-07-13T00:00:00",
+            "NumeroBoletos": 53.0,
+            "NumeroBoletos1": 30.0,
+            "qtdeItems": 107.00,
+            "VendasDia": 1404.52,
+            "VendasBrutasDia": 1477.47,
+            "MetaDia": 1871.77,
+            "PercentualGap": 75.04,
+            "BoletoMedio": 26.500377358490566037735849057,
+            "ItensPorBoleto": 2.02,
+            "PercentualBoleto1": 57.00,
+            "PrecoMedio": 13.12635514018691588785046729,
+            "MetaDiaQtd": 1.93548,
+            "PercentualGapQtd": 0.0,
+            "RealizadoQtd": 0.0,
+            "CategoriaCustomizada1": 0.0,
+            "CategoriaCustomizada2": 0.0,
+            "CategoriaCustomizada3": 0.0,
+            "CategoriaCustomizada4": 0.0,
+            "CategoriaCustomizada5": 0.0,
+            "CategoriaCustomizada6": 0.0,
+            "CategoriaCustomizada7": 0.0,
+            "CategoriaCustomizada8": 0.0,
+            "CategoriaCustomizada9": 0.0,
+            "CategoriaCustomizada10": 0.0,
+            "CategoriaCustomizada11": 0.0,
+            "CategoriaCustomizada12": 0.0,
+            "CategoriaCustomizada13": 0.0,
+            "CategoriaCustomizada14": 0.0,
+            "ListaIndicadores": [
+                {
+                    "nome": "Maior Boleto",
+                    "valor": 132.50,
+                    "icone": "star",
+                    "formato": 1
+                },
+                {
+                    "nome": "GENERICO / SIMILAR",
+                    "valor": 45.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "NAO MEDICAMENTO",
+                    "valor": 42.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "REFERENCIAS",
+                    "valor": 20.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "Meta atendimentos",
+                    "valor": 71.0,
+                    "icone": "eye",
+                    "formato": 0
+                }
+            ]
+        },
+        {
+            "dtmovimento": "2024-07-12T00:00:00",
+            "NumeroBoletos": 53.0,
+            "NumeroBoletos1": 38.0,
+            "qtdeItems": 127.00,
+            "VendasDia": 1699.29,
+            "VendasBrutasDia": 1819.27,
+            "MetaDia": 1871.77,
+            "PercentualGap": 90.79,
+            "BoletoMedio": 32.062075471698113207547169811,
+            "ItensPorBoleto": 2.40,
+            "PercentualBoleto1": 72.00,
+            "PrecoMedio": 13.380236220472440944881889764,
+            "MetaDiaQtd": 1.93548,
+            "PercentualGapQtd": 0.0,
+            "RealizadoQtd": 0.0,
+            "CategoriaCustomizada1": 0.0,
+            "CategoriaCustomizada2": 0.0,
+            "CategoriaCustomizada3": 0.0,
+            "CategoriaCustomizada4": 0.0,
+            "CategoriaCustomizada5": 0.0,
+            "CategoriaCustomizada6": 0.0,
+            "CategoriaCustomizada7": 0.0,
+            "CategoriaCustomizada8": 0.0,
+            "CategoriaCustomizada9": 0.0,
+            "CategoriaCustomizada10": 0.0,
+            "CategoriaCustomizada11": 0.0,
+            "CategoriaCustomizada12": 0.0,
+            "CategoriaCustomizada13": 0.0,
+            "CategoriaCustomizada14": 0.0,
+            "ListaIndicadores": [
+                {
+                    "nome": "Maior Boleto",
+                    "valor": 198.27,
+                    "icone": "star",
+                    "formato": 1
+                },
+                {
+                    "nome": "GENERICO / SIMILAR",
+                    "valor": 40.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "MANIPULACAO",
+                    "valor": 1.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "NAO MEDICAMENTO",
+                    "valor": 76.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "REFERENCIAS",
+                    "valor": 10.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "Meta atendimentos",
+                    "valor": 59.0,
+                    "icone": "eye",
+                    "formato": 0
+                }
+            ]
+        },
+        {
+            "dtmovimento": "2024-07-11T00:00:00",
+            "NumeroBoletos": 60.0,
+            "NumeroBoletos1": 43.0,
+            "qtdeItems": 135.00,
+            "VendasDia": 2316.27,
+            "VendasBrutasDia": 2429.23,
+            "MetaDia": 1871.77,
+            "PercentualGap": 123.75,
+            "BoletoMedio": 38.6045,
+            "ItensPorBoleto": 2.25,
+            "PercentualBoleto1": 72.00,
+            "PrecoMedio": 17.157555555555555555555555556,
+            "MetaDiaQtd": 1.93548,
+            "PercentualGapQtd": 1.00,
+            "RealizadoQtd": 1.00,
+            "CategoriaCustomizada1": 0.0,
+            "CategoriaCustomizada2": 0.0,
+            "CategoriaCustomizada3": 0.0,
+            "CategoriaCustomizada4": 0.0,
+            "CategoriaCustomizada5": 0.0,
+            "CategoriaCustomizada6": 0.0,
+            "CategoriaCustomizada7": 0.0,
+            "CategoriaCustomizada8": 0.0,
+            "CategoriaCustomizada9": 0.0,
+            "CategoriaCustomizada10": 0.0,
+            "CategoriaCustomizada11": 0.0,
+            "CategoriaCustomizada12": 0.0,
+            "CategoriaCustomizada13": 0.0,
+            "CategoriaCustomizada14": 0.0,
+            "ListaIndicadores": [
+                {
+                    "nome": "Maior Boleto",
+                    "valor": 224.21,
+                    "icone": "star",
+                    "formato": 1
+                },
+                {
+                    "nome": "GENERICO / SIMILAR",
+                    "valor": 44.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "NAO MEDICAMENTO",
+                    "valor": 54.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "REFERENCIAS",
+                    "valor": 36.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "VITAMINAS",
+                    "valor": 1.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "Meta atendimentos",
+                    "valor": 49.0,
+                    "icone": "eye",
+                    "formato": 0
+                }
+            ]
+        },
+        {
+            "dtmovimento": "2024-07-10T00:00:00",
+            "NumeroBoletos": 67.0,
+            "NumeroBoletos1": 38.0,
+            "qtdeItems": 161.00,
+            "VendasDia": 2272.44,
+            "VendasBrutasDia": 2338.36,
+            "MetaDia": 1871.77,
+            "PercentualGap": 121.41,
+            "BoletoMedio": 33.917014925373134328358208955,
+            "ItensPorBoleto": 2.40,
+            "PercentualBoleto1": 57.00,
+            "PrecoMedio": 14.114534161490683229813664596,
+            "MetaDiaQtd": 1.93548,
+            "PercentualGapQtd": 0.0,
+            "RealizadoQtd": 0.0,
+            "CategoriaCustomizada1": 0.0,
+            "CategoriaCustomizada2": 0.0,
+            "CategoriaCustomizada3": 0.0,
+            "CategoriaCustomizada4": 0.0,
+            "CategoriaCustomizada5": 0.0,
+            "CategoriaCustomizada6": 0.0,
+            "CategoriaCustomizada7": 0.0,
+            "CategoriaCustomizada8": 0.0,
+            "CategoriaCustomizada9": 0.0,
+            "CategoriaCustomizada10": 0.0,
+            "CategoriaCustomizada11": 0.0,
+            "CategoriaCustomizada12": 0.0,
+            "CategoriaCustomizada13": 0.0,
+            "CategoriaCustomizada14": 0.0,
+            "ListaIndicadores": [
+                {
+                    "nome": "Maior Boleto",
+                    "valor": 179.99,
+                    "icone": "star",
+                    "formato": 1
+                },
+                {
+                    "nome": "GENERICO / SIMILAR",
+                    "valor": 66.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "NAO MEDICAMENTO",
+                    "valor": 73.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "REFERENCIAS",
+                    "valor": 22.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "Meta atendimentos",
+                    "valor": 56.0,
+                    "icone": "eye",
+                    "formato": 0
+                }
+            ]
+        },
+        {
+            "dtmovimento": "2024-07-09T00:00:00",
+            "NumeroBoletos": 50.0,
+            "NumeroBoletos1": 38.0,
+            "qtdeItems": 103.00,
+            "VendasDia": 1495.27,
+            "VendasBrutasDia": 1555.52,
+            "MetaDia": 1871.77,
+            "PercentualGap": 79.89,
+            "BoletoMedio": 29.9054,
+            "ItensPorBoleto": 2.06,
+            "PercentualBoleto1": 76.00,
+            "PrecoMedio": 14.51718446601941747572815534,
+            "MetaDiaQtd": 1.93548,
+            "PercentualGapQtd": 0.0,
+            "RealizadoQtd": 0.0,
+            "CategoriaCustomizada1": 0.0,
+            "CategoriaCustomizada2": 0.0,
+            "CategoriaCustomizada3": 0.0,
+            "CategoriaCustomizada4": 0.0,
+            "CategoriaCustomizada5": 0.0,
+            "CategoriaCustomizada6": 0.0,
+            "CategoriaCustomizada7": 0.0,
+            "CategoriaCustomizada8": 0.0,
+            "CategoriaCustomizada9": 0.0,
+            "CategoriaCustomizada10": 0.0,
+            "CategoriaCustomizada11": 0.0,
+            "CategoriaCustomizada12": 0.0,
+            "CategoriaCustomizada13": 0.0,
+            "CategoriaCustomizada14": 0.0,
+            "ListaIndicadores": [
+                {
+                    "nome": "Maior Boleto",
+                    "valor": 89.95,
+                    "icone": "star",
+                    "formato": 1
+                },
+                {
+                    "nome": "GENERICO / SIMILAR",
+                    "valor": 44.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "NAO MEDICAMENTO",
+                    "valor": 29.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "REFERENCIAS",
+                    "valor": 30.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "Meta atendimentos",
+                    "valor": 63.0,
+                    "icone": "eye",
+                    "formato": 0
+                }
+            ]
+        },
+        {
+            "dtmovimento": "2024-07-08T00:00:00",
+            "NumeroBoletos": 76.0,
+            "NumeroBoletos1": 52.0,
+            "qtdeItems": 145.00,
+            "VendasDia": 2251.37,
+            "VendasBrutasDia": 2391.97,
+            "MetaDia": 1871.77,
+            "PercentualGap": 120.28,
+            "BoletoMedio": 29.623289473684210526315789474,
+            "ItensPorBoleto": 1.91,
+            "PercentualBoleto1": 68.00,
+            "PrecoMedio": 15.526689655172413793103448276,
+            "MetaDiaQtd": 1.93548,
+            "PercentualGapQtd": 3.00,
+            "RealizadoQtd": 3.00,
+            "CategoriaCustomizada1": 0.0,
+            "CategoriaCustomizada2": 0.0,
+            "CategoriaCustomizada3": 0.0,
+            "CategoriaCustomizada4": 0.0,
+            "CategoriaCustomizada5": 0.0,
+            "CategoriaCustomizada6": 0.0,
+            "CategoriaCustomizada7": 0.0,
+            "CategoriaCustomizada8": 0.0,
+            "CategoriaCustomizada9": 0.0,
+            "CategoriaCustomizada10": 0.0,
+            "CategoriaCustomizada11": 0.0,
+            "CategoriaCustomizada12": 0.0,
+            "CategoriaCustomizada13": 0.0,
+            "CategoriaCustomizada14": 0.0,
+            "ListaIndicadores": [
+                {
+                    "nome": "Maior Boleto",
+                    "valor": 135.00,
+                    "icone": "star",
+                    "formato": 1
+                },
+                {
+                    "nome": "GENERICO / SIMILAR",
+                    "valor": 67.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "NAO MEDICAMENTO",
+                    "valor": 51.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "REFERENCIAS",
+                    "valor": 24.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "VITAMINAS",
+                    "valor": 3.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "Meta atendimentos",
+                    "valor": 64.0,
+                    "icone": "eye",
+                    "formato": 0
+                }
+            ]
+        },
+        {
+            "dtmovimento": "2024-07-07T00:00:00",
+            "NumeroBoletos": 32.0,
+            "NumeroBoletos1": 16.0,
+            "qtdeItems": 67.00,
+            "VendasDia": 955.03,
+            "VendasBrutasDia": 983.29,
+            "MetaDia": 1871.77,
+            "PercentualGap": 51.02,
+            "BoletoMedio": 29.8446875,
+            "ItensPorBoleto": 2.09,
+            "PercentualBoleto1": 50.0,
+            "PrecoMedio": 14.254179104477611940298507463,
+            "MetaDiaQtd": 1.93548,
+            "PercentualGapQtd": 0.0,
+            "RealizadoQtd": 0.0,
+            "CategoriaCustomizada1": 0.0,
+            "CategoriaCustomizada2": 0.0,
+            "CategoriaCustomizada3": 0.0,
+            "CategoriaCustomizada4": 0.0,
+            "CategoriaCustomizada5": 0.0,
+            "CategoriaCustomizada6": 0.0,
+            "CategoriaCustomizada7": 0.0,
+            "CategoriaCustomizada8": 0.0,
+            "CategoriaCustomizada9": 0.0,
+            "CategoriaCustomizada10": 0.0,
+            "CategoriaCustomizada11": 0.0,
+            "CategoriaCustomizada12": 0.0,
+            "CategoriaCustomizada13": 0.0,
+            "CategoriaCustomizada14": 0.0,
+            "ListaIndicadores": [
+                {
+                    "nome": "Maior Boleto",
+                    "valor": 208.20,
+                    "icone": "star",
+                    "formato": 1
+                },
+                {
+                    "nome": "GENERICO / SIMILAR",
+                    "valor": 31.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "NAO MEDICAMENTO",
+                    "valor": 24.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "REFERENCIAS",
+                    "valor": 12.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "Meta atendimentos",
+                    "valor": 63.0,
+                    "icone": "eye",
+                    "formato": 0
+                }
+            ]
+        },
+        {
+            "dtmovimento": "2024-07-06T00:00:00",
+            "NumeroBoletos": 51.0,
+            "NumeroBoletos1": 35.0,
+            "qtdeItems": 93.00,
+            "VendasDia": 1395.05,
+            "VendasBrutasDia": 1466.73,
+            "MetaDia": 1871.77,
+            "PercentualGap": 74.53,
+            "BoletoMedio": 27.353921568627450980392156863,
+            "ItensPorBoleto": 1.82,
+            "PercentualBoleto1": 69.00,
+            "PrecoMedio": 15.000537634408602150537634409,
+            "MetaDiaQtd": 1.93548,
+            "PercentualGapQtd": 2.00,
+            "RealizadoQtd": 2.00,
+            "CategoriaCustomizada1": 0.0,
+            "CategoriaCustomizada2": 0.0,
+            "CategoriaCustomizada3": 0.0,
+            "CategoriaCustomizada4": 0.0,
+            "CategoriaCustomizada5": 0.0,
+            "CategoriaCustomizada6": 0.0,
+            "CategoriaCustomizada7": 0.0,
+            "CategoriaCustomizada8": 0.0,
+            "CategoriaCustomizada9": 0.0,
+            "CategoriaCustomizada10": 0.0,
+            "CategoriaCustomizada11": 0.0,
+            "CategoriaCustomizada12": 0.0,
+            "CategoriaCustomizada13": 0.0,
+            "CategoriaCustomizada14": 0.0,
+            "ListaIndicadores": [
+                {
+                    "nome": "Maior Boleto",
+                    "valor": 181.66,
+                    "icone": "star",
+                    "formato": 1
+                },
+                {
+                    "nome": "GENERICO / SIMILAR",
+                    "valor": 42.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "NAO MEDICAMENTO",
+                    "valor": 41.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "REFERENCIAS",
+                    "valor": 8.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "VITAMINAS",
+                    "valor": 2.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "Meta atendimentos",
+                    "valor": 69.0,
+                    "icone": "eye",
+                    "formato": 0
+                }
+            ]
+        },
+        {
+            "dtmovimento": "2024-07-05T00:00:00",
+            "NumeroBoletos": 60.0,
+            "NumeroBoletos1": 40.0,
+            "qtdeItems": 207.00,
+            "VendasDia": 1879.01,
+            "VendasBrutasDia": 2027.71,
+            "MetaDia": 1871.77,
+            "PercentualGap": 100.39,
+            "BoletoMedio": 31.316833333333333333333333333,
+            "ItensPorBoleto": 3.45,
+            "PercentualBoleto1": 67.00,
+            "PrecoMedio": 9.077342995169082125603864734,
+            "MetaDiaQtd": 1.93548,
+            "PercentualGapQtd": 1.00,
+            "RealizadoQtd": 1.00,
+            "CategoriaCustomizada1": 0.0,
+            "CategoriaCustomizada2": 0.0,
+            "CategoriaCustomizada3": 0.0,
+            "CategoriaCustomizada4": 0.0,
+            "CategoriaCustomizada5": 0.0,
+            "CategoriaCustomizada6": 0.0,
+            "CategoriaCustomizada7": 0.0,
+            "CategoriaCustomizada8": 0.0,
+            "CategoriaCustomizada9": 0.0,
+            "CategoriaCustomizada10": 0.0,
+            "CategoriaCustomizada11": 0.0,
+            "CategoriaCustomizada12": 0.0,
+            "CategoriaCustomizada13": 0.0,
+            "CategoriaCustomizada14": 0.0,
+            "ListaIndicadores": [
+                {
+                    "nome": "Maior Boleto",
+                    "valor": 181.58,
+                    "icone": "star",
+                    "formato": 1
+                },
+                {
+                    "nome": "GENERICO / SIMILAR",
+                    "valor": 40.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "NAO MEDICAMENTO",
+                    "valor": 143.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "REFERENCIAS",
+                    "valor": 23.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "VITAMINAS",
+                    "valor": 1.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "Meta atendimentos",
+                    "valor": 60.0,
+                    "icone": "eye",
+                    "formato": 0
+                }
+            ]
+        },
+        {
+            "dtmovimento": "2024-07-04T00:00:00",
+            "NumeroBoletos": 72.0,
+            "NumeroBoletos1": 49.0,
+            "qtdeItems": 226.00,
+            "VendasDia": 2453.83,
+            "VendasBrutasDia": 2644.56,
+            "MetaDia": 1871.77,
+            "PercentualGap": 131.10,
+            "BoletoMedio": 34.080972222222222222222222222,
+            "ItensPorBoleto": 3.14,
+            "PercentualBoleto1": 68.00,
+            "PrecoMedio": 10.85765486725663716814159292,
+            "MetaDiaQtd": 1.93548,
+            "PercentualGapQtd": 2.00,
+            "RealizadoQtd": 2.00,
+            "CategoriaCustomizada1": 0.0,
+            "CategoriaCustomizada2": 0.0,
+            "CategoriaCustomizada3": 0.0,
+            "CategoriaCustomizada4": 0.0,
+            "CategoriaCustomizada5": 0.0,
+            "CategoriaCustomizada6": 0.0,
+            "CategoriaCustomizada7": 0.0,
+            "CategoriaCustomizada8": 0.0,
+            "CategoriaCustomizada9": 0.0,
+            "CategoriaCustomizada10": 0.0,
+            "CategoriaCustomizada11": 0.0,
+            "CategoriaCustomizada12": 0.0,
+            "CategoriaCustomizada13": 0.0,
+            "CategoriaCustomizada14": 0.0,
+            "ListaIndicadores": [
+                {
+                    "nome": "Maior Boleto",
+                    "valor": 123.30,
+                    "icone": "star",
+                    "formato": 1
+                },
+                {
+                    "nome": "GENERICO / SIMILAR",
+                    "valor": 45.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "NAO MEDICAMENTO",
+                    "valor": 158.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "REFERENCIAS",
+                    "valor": 21.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "VITAMINAS",
+                    "valor": 2.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "Meta atendimentos",
+                    "valor": 55.0,
+                    "icone": "eye",
+                    "formato": 0
+                }
+            ]
+        },
+        {
+            "dtmovimento": "2024-07-03T00:00:00",
+            "NumeroBoletos": 69.0,
+            "NumeroBoletos1": 53.0,
+            "qtdeItems": 113.00,
+            "VendasDia": 2196.19,
+            "VendasBrutasDia": 2294.97,
+            "MetaDia": 1871.77,
+            "PercentualGap": 117.33,
+            "BoletoMedio": 31.828840579710144927536231884,
+            "ItensPorBoleto": 1.64,
+            "PercentualBoleto1": 77.00,
+            "PrecoMedio": 19.435309734513274336283185841,
+            "MetaDiaQtd": 1.93548,
+            "PercentualGapQtd": 2.00,
+            "RealizadoQtd": 2.00,
+            "CategoriaCustomizada1": 0.0,
+            "CategoriaCustomizada2": 0.0,
+            "CategoriaCustomizada3": 0.0,
+            "CategoriaCustomizada4": 0.0,
+            "CategoriaCustomizada5": 0.0,
+            "CategoriaCustomizada6": 0.0,
+            "CategoriaCustomizada7": 0.0,
+            "CategoriaCustomizada8": 0.0,
+            "CategoriaCustomizada9": 0.0,
+            "CategoriaCustomizada10": 0.0,
+            "CategoriaCustomizada11": 0.0,
+            "CategoriaCustomizada12": 0.0,
+            "CategoriaCustomizada13": 0.0,
+            "CategoriaCustomizada14": 0.0,
+            "ListaIndicadores": [
+                {
+                    "nome": "Maior Boleto",
+                    "valor": 132.50,
+                    "icone": "star",
+                    "formato": 1
+                },
+                {
+                    "nome": "GENERICO / SIMILAR",
+                    "valor": 32.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "NAO MEDICAMENTO",
+                    "valor": 62.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "REFERENCIAS",
+                    "valor": 17.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "VITAMINAS",
+                    "valor": 2.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "Meta atendimentos",
+                    "valor": 59.0,
+                    "icone": "eye",
+                    "formato": 0
+                }
+            ]
+        },
+        {
+            "dtmovimento": "2024-07-02T00:00:00",
+            "NumeroBoletos": 56.0,
+            "NumeroBoletos1": 38.0,
+            "qtdeItems": 105.00,
+            "VendasDia": 1584.16,
+            "VendasBrutasDia": 1642.37,
+            "MetaDia": 1871.77,
+            "PercentualGap": 84.63,
+            "BoletoMedio": 28.288571428571428571428571429,
+            "ItensPorBoleto": 1.88,
+            "PercentualBoleto1": 68.00,
+            "PrecoMedio": 15.087238095238095238095238095,
+            "MetaDiaQtd": 1.93548,
+            "PercentualGapQtd": 1.00,
+            "RealizadoQtd": 1.00,
+            "CategoriaCustomizada1": 0.0,
+            "CategoriaCustomizada2": 0.0,
+            "CategoriaCustomizada3": 0.0,
+            "CategoriaCustomizada4": 0.0,
+            "CategoriaCustomizada5": 0.0,
+            "CategoriaCustomizada6": 0.0,
+            "CategoriaCustomizada7": 0.0,
+            "CategoriaCustomizada8": 0.0,
+            "CategoriaCustomizada9": 0.0,
+            "CategoriaCustomizada10": 0.0,
+            "CategoriaCustomizada11": 0.0,
+            "CategoriaCustomizada12": 0.0,
+            "CategoriaCustomizada13": 0.0,
+            "CategoriaCustomizada14": 0.0,
+            "ListaIndicadores": [
+                {
+                    "nome": "Maior Boleto",
+                    "valor": 84.61,
+                    "icone": "star",
+                    "formato": 1
+                },
+                {
+                    "nome": "GENERICO / SIMILAR",
+                    "valor": 38.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "NAO MEDICAMENTO",
+                    "valor": 58.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "REFERENCIAS",
+                    "valor": 8.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "VITAMINAS",
+                    "valor": 1.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "Meta atendimentos",
+                    "valor": 67.0,
+                    "icone": "eye",
+                    "formato": 0
+                }
+            ]
+        },
+        {
+            "dtmovimento": "2024-07-01T00:00:00",
+            "NumeroBoletos": 57.0,
+            "NumeroBoletos1": 34.0,
+            "qtdeItems": 143.00,
+            "VendasDia": 1886.99,
+            "VendasBrutasDia": 1998.04,
+            "MetaDia": 1871.77,
+            "PercentualGap": 100.81,
+            "BoletoMedio": 33.105087719298245614035087719,
+            "ItensPorBoleto": 2.51,
+            "PercentualBoleto1": 60.00,
+            "PrecoMedio": 13.195734265734265734265734266,
+            "MetaDiaQtd": 1.93548,
+            "PercentualGapQtd": 0.0,
+            "RealizadoQtd": 0.0,
+            "CategoriaCustomizada1": 0.0,
+            "CategoriaCustomizada2": 0.0,
+            "CategoriaCustomizada3": 0.0,
+            "CategoriaCustomizada4": 0.0,
+            "CategoriaCustomizada5": 0.0,
+            "CategoriaCustomizada6": 0.0,
+            "CategoriaCustomizada7": 0.0,
+            "CategoriaCustomizada8": 0.0,
+            "CategoriaCustomizada9": 0.0,
+            "CategoriaCustomizada10": 0.0,
+            "CategoriaCustomizada11": 0.0,
+            "CategoriaCustomizada12": 0.0,
+            "CategoriaCustomizada13": 0.0,
+            "CategoriaCustomizada14": 0.0,
+            "ListaIndicadores": [
+                {
+                    "nome": "Maior Boleto",
+                    "valor": 191.98,
+                    "icone": "star",
+                    "formato": 1
+                },
+                {
+                    "nome": "GENERICO / SIMILAR",
+                    "valor": 53.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "NAO MEDICAMENTO",
+                    "valor": 42.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "REFERENCIAS",
+                    "valor": 48.00,
+                    "icone": "albums",
+                    "formato": 0
+                },
+                {
+                    "nome": "Meta atendimentos",
+                    "valor": 57.0,
+                    "icone": "eye",
+                    "formato": 0
+                }
+            ]
+        }
+    ],
+    "ListaIndicadores": [
+        {
+            "nome": "Faturamento bruto",
+            "valor": 32916.95,
+            "icone": "card",
+            "formato": 1
+        },
+        {
+            "nome": "Faturamento líquido",
+            "valor": 31350.51,
+            "icone": "card",
+            "formato": 1
+        },
+        {
+            "nome": "Qtd. Vendedores",
+            "valor": 3,
+            "icone": "people-circle",
+            "formato": 0
+        },
+        {
+            "nome": "Faturamento previsto",
+            "valor": 57168.577058823529411764705883,
+            "icone": "eye",
+            "formato": 1
+        },
+        {
+            "nome": "Boleto médio",
+            "valor": 31.957706422018348623853211009,
+            "icone": "cash",
+            "formato": 1
+        },
+        {
+            "nome": "Nº de itens",
+            "valor": 2147.00,
+            "icone": "barcode",
+            "formato": 0
+        },
+        {
+            "nome": "Boleto 1",
+            "valor": "68%",
+            "icone": "pricetag",
+            "formato": 0
+        },
+        {
+            "nome": "Itens / boleto",
+            "valor": 2.19,
+            "icone": "receipt-outline",
+            "formato": 0
+        },
+        {
+            "nome": "Fat./vendedor",
+            "valor": 10450.17,
+            "icone": "person-circle",
+            "formato": 1
+        },
+        {
+            "nome": "Preço Medio",
+            "valor": 14.602007452258965999068467629,
+            "icone": "logo-usd",
+            "formato": 1
+        },
+        {
+            "nome": "Desconto",
+            "valor": 1566.44,
+            "icone": "pricetag",
+            "formato": 1
+        },
+        {
+            "nome": "Desconto médio",
+            "valor": 4.7587641017773517898833275900,
+            "icone": "pricetag",
+            "formato": 1
+        },
+        {
+            "nome": "Nº de Boletos",
+            "valor": 981.0,
+            "icone": "copy",
+            "formato": 0
+        },
+        {
+            "nome": "CMV R$",
+            "valor": 18527.20,
+            "icone": "pie-chart",
+            "formato": 1
+        },
+        {
+            "nome": "CMV %",
+            "valor": "59,10%",
+            "icone": "pie-chart",
+            "formato": 0
+        },
+        {
+            "nome": "Meta do mês",
+            "valor": 58024.87,
+            "icone": "trending-up",
+            "formato": 1
+        },
+        {
+            "nome": "Meta até 17/07/2024",
+            "valor": 31820.090000000000000000000000,
+            "icone": "trending-up",
+            "formato": 1
+        },
+        {
+            "nome": "Gap até 17/07/2024",
+            "valor": 469.580000000000000000000000,
+            "icone": "pie-chart-outline",
+            "formato": 1
+        },
+        {
+            "nome": "Fat. diário esperado",
+            "valor": 1905.3114285714285714285714286,
+            "icone": "calendar",
+            "formato": 1
+        },
+        {
+            "nome": "Meta Qtd.",
+            "valor": 59.99988,
+            "icone": "trending-up",
+            "formato": 0
+        },
+        {
+            "nome": "Meta Qtd até 17/07/2024",
+            "valor": 32.90316,
+            "icone": "trending-up",
+            "formato": 0
+        },
+        {
+            "nome": "Realizado Qtd",
+            "valor": 14.00,
+            "icone": "barcode",
+            "formato": 0
+        },
+        {
+            "nome": "Gap Qtd",
+            "valor": 18.90316,
+            "icone": "pie-chart",
+            "formato": 0
+        },
+        {
+            "nome": "Nº Lojas",
+            "valor": 1,
+            "icone": "home",
+            "formato": 0
+        },
+        {
+            "nome": "Fat./Loja",
+            "valor": 31350.51,
+            "icone": "podium",
+            "formato": 1
+        },
+        {
+            "nome": "Meta atendimentos Mês",
+            "valor": 1816.0,
+            "icone": "eye",
+            "formato": 0
+        }
+    ]
+}

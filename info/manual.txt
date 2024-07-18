@@ -1,0 +1,6 @@
+
+
+cd C:\Users\jovani.custodio\Documents\Automacoes_python\Casting_endpoints
+
+$env:PYTHONPATH="."
+python .\requestsCasting\Request.py
