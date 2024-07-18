@@ -1,10 +1,5 @@
-# Nome do Projeto
+#Testes de Integração
 
-![Logo do Projeto](link-para-o-logo.png)
-
-> Uma breve descrição do projeto, o que ele faz e para quem é.
-
----
 
 ## Tabela de Conteúdos
 
